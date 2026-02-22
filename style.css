@@ -1,0 +1,40 @@
+:root {
+    --Negro-carbón: #111111;
+    --Crema-envejecido: #F2E6C9;
+    --Rojo-profundo: #8C1D18;
+    --Verde-olivo: #4B5D3A;
+    --Marrón-cuero: #5A3A2E;
+}
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/*-------------------------------------header*/
+.section-header {
+width:100%;
+height:auto;
+}
+
+.img-header {
+width:100%;
+height:auto;
+}
+
+.img-rs {
+
+}
+
+/*-------------------------------------hero*/
+
+
+/*-------------------------------------iframe-google*/
+.container.map {
+    width:80%;
+    height:auto;
+    margin-left:10%;
+    margin-right:10%;
+}
+
