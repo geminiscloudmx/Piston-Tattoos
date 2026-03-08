@@ -318,6 +318,7 @@ footer {
     }
 
     .about_img {
+        display:block;
         width:300px;
         height:auto;
         margin:auto;
