@@ -231,19 +231,11 @@ h1,h2,h3 {
 }
 
 .horario {
-    width:90%;
-    height:auto;
-    margin:auto;
-    display:grid;
-    grid-template-columns: repeat(8,1fr);
-    gap:10px;
-}
-
-.contenido {
     display:inline-block;
     width:100%;
     height:auto;
     text-align: center;
+    font-size: 1.5rem;
 }
 
 .text-contenido {
@@ -289,6 +281,7 @@ footer {
         height:75px;
         display:block;
         margin:auto;
+        margin-top:15px;
     }
     
     .mejor {
@@ -359,8 +352,7 @@ footer {
     }
 
     .horario {
-        flex-direction: column;
-        
+        font-size:1rem;
     }
 
     .text-footer {
